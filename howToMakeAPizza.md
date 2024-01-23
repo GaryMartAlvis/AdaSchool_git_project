@@ -22,3 +22,13 @@ Aceitunas
 - Agregar agua tibia gradualmente mientras amasas la masa.
 - Incorporar el aceite de oliva y seguir amasando hasta obtener una masa suave.
 - Dejar reposar la masa en un lugar cálido hasta que duplique su tamaño
+# Preparación de la Salsa
+* Picar finamente los tomates, el ajo y la albahaca.
+* En una sartén, calentar aceite de oliva y saltear el ajo.
+* Agregar los tomates picados y cocinar a fuego lento hasta que la salsa espese.
+* Añadir la albahaca, sal y pimienta al gusto.
+* Estirar y Formar la Masa
+* Precalentar el horno a la temperatura adecuada.
+* En una superficie enharinada, estirar la masa con un rodillo hasta obtener el grosor deseado.
+* Colocar la masa en una bandeja para pizza y formar los bordes.
+
