@@ -43,6 +43,10 @@ Aceitunas
 * Colocar la pizza en el horno precalentado.
 * Hornear hasta que la masa esté dorada y el queso burbujeante.
 
+# Origen de la Pizza
+
+Es en el siglo XVII en Italia, concretamente en Nápoles, cuando aparece la pizza como plato popular tal y como la conocemos hoy en día. Se abre la primera pizzería en el año 1830 “Port' Alba”, a la que auguraban poco futuro y sin embargo sigue abierta hasta hoy en día.
+
 ¡Disfruta!
 Sacar la pizza del horno y dejar enfriar unos minutos.
 Cortar en porciones y disfrutar de tu deliciosa pizza casera.
